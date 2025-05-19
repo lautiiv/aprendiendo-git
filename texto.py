@@ -5,3 +5,5 @@ print(hola)
 texto = print(F" {hola} lautaro, facha")
 
 XD = print("JAJASJAJAC XD")
+
+lol = print("LOOOOL")
